@@ -133,8 +133,8 @@ function round() {
 }
 
 function play() {
-  wins = 0
-  losses = 0
+  // wins = 0
+  // losses = 0
   let fLeikir = prompt("Af hversu mörgum leikjum þarf að vinna?")
 
   if (isValidBestOf(fLeikir)) {
