@@ -43,7 +43,6 @@ function playAsText(play) {
       break;
   }
 
-  console.log(out);
   return(out)
 }
 // console.assert(playAsText('1') === 'Skæri', '1 táknar skæri');
